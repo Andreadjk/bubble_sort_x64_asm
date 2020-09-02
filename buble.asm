@@ -59,7 +59,6 @@ PRINTDEC:
 ;r11d increment second label for or while
 ;r12d size of array
 ;r13d store value of first variable after action bubble sort's , will store new array created
-;r14 store address of array first for
 ;r15 increment for print array
 _start:
 mov r12d,5
